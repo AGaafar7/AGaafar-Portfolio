@@ -1,0 +1,5 @@
+{
+  "name": "DevOS - Engineer Portfolio",
+  "description": "A macOS-inspired desktop interface featuring a terminal-driven developer portfolio with Google Gemini AI command translation and project analysis.",
+  "requestFramePermissions": []
+}
